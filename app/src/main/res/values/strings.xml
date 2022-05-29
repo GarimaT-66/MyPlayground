@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Playground</string>
+    <string name="textViewAndroidtrial">Gojo Satoru, the strongest sorcerer</string>
+    <string name="textViewintro">Best Anime Characters</string>
+    <string name="buttonName">press me</string>
+    <string name="checkBox">is Gojo Satoru the best?</string>
+    <string name="toggleButton">Gojo Best?</string>
+    <string name="switchButton">Gojo Best?</string>
+    <string name="floatButton">Alarm</string>
+    <string name="rateButton">rate Gojo</string>
+</resources>
